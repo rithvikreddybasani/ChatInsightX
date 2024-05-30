@@ -1,0 +1,9 @@
+streamlit==1.35.0
+urlextract==1.9.0
+streamlit-option-menu==0.3.12
+seaborn==0.13.2
+scipy==1.13.1
+regex==2024.5.15
+pandas==2.2.2
+matplotlib==3.9.0
+emoji==2.12.1
