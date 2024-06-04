@@ -11,6 +11,7 @@ import pandas as pd
 from collections import Counter
 import emoji
 
+# extracting the url
 extract = URLExtract()
 
 def fetch_stats(selected_user,df):
